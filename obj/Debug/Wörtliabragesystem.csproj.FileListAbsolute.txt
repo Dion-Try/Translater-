@@ -1,0 +1,8 @@
+C:\Users\Adrian\Desktop\Wörtliabragesystem\bin\Debug\Wörtliabragesystem.exe.config
+C:\Users\Adrian\Desktop\Wörtliabragesystem\bin\Debug\Wörtliabragesystem.exe
+C:\Users\Adrian\Desktop\Wörtliabragesystem\bin\Debug\Wörtliabragesystem.pdb
+C:\Users\Adrian\Desktop\Wörtliabragesystem\obj\Debug\Wörtliabragesystem.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Wörtliabragesystem\obj\Debug\Wörtliabragesystem.csproj.ResolveComReference.cache
+C:\Users\Adrian\Desktop\Wörtliabragesystem\obj\Debug\Wörtliabragesystem.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Wörtliabragesystem\obj\Debug\Wörtliabragesystem.exe
+C:\Users\Adrian\Desktop\Wörtliabragesystem\obj\Debug\Wörtliabragesystem.pdb
